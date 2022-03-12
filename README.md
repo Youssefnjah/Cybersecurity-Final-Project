@@ -1,6 +1,6 @@
 # Cybersecurity-Final-Project
 
-In this Project I played the role of a SOC Anylyst for X-corp. I set up alerts and Index pattern on kibana to monitor and log the attacks that I will be conducting soon after. After setting up the alerts I played the role of a pentration tester to try and exploit the Word Press Server as we will see. I then analyzed live traffic on Wireshark to find any abnormalities.
+In this Project I played the role of a SOC Anylyst for X-corp. I set up alerts and Index patterns on kibana to monitor and log the attacks that I will be conducting soon after. After setting up the alerts I played the role of a pentration tester to try and exploit the Word Press Server as we will see. I then analyzed live traffic on Wireshark to find any abnormalities.
 
 # Accomplishments
 
